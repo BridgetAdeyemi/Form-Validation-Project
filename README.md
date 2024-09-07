@@ -9,7 +9,7 @@ Checks if the email address is in the correct format.
 Provides real-time feedback to users as they fill out the form.
 Prevents form submission if validation fails, prompting users to correct their input.
 
-TECHNOLOGIESUSED   
+TECHNOLOGIES USED   
 HTML: For creating the form structure.      
 CSS: For styling the form and feedback messages.      
 JavaScript: For real-time form validation and handling user interactions.
