@@ -20,4 +20,4 @@ Fill out the form fields, ensuring all required fields are completed and the ema
 Submit the form once all fields are valid.  
 
 LIVE DEMO  
-Checkout the live version of the project here
+Checkout the live version of the project here  https://bridgetadeyemi.github.io/Form-Validation-System/
