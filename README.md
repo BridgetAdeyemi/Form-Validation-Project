@@ -17,4 +17,7 @@ JavaScript: For real-time form validation and handling user interactions.
 HOW TO USE     
 Open the application in your browser.
 Fill out the form fields, ensuring all required fields are completed and the email is correctly formatted.
-Submit the form once all fields are valid.
+Submit the form once all fields are valid.  
+
+LIVE DEMO  
+Checkout the live version of the project here
